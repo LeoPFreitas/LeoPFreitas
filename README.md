@@ -27,4 +27,4 @@ I'm a Software engineer and System Analysis Student based on Brazil! My personal
 
 ### 📫 Want to connect?
 
-- LinkedIn: https://www.linkedin.com/in/lfreitasleonardo
+- [LinkedIn](https://www.linkedin.com/in/lfreitasleonardo)
