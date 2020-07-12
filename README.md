@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there, my name is Leonardo Freitas
 
-<!--
-**LeoPFreitas/LeoPFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software engineer and System Analysis Student based on Brazil! My personal mission is to use technology in order to improve humans life.
 
-Here are some ideas to get you started:
+### 🚀 The Dream
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Become a true leader, a great software engineer and help as many developers as possible during this process.
+
+### ✏️ I’m currently learning
+
+- Java + tooling.
+- Software architecture and design.
+- Algorithms and Data Structures.
+
+### ⚡ I’m currently working on
+
+- Brazilian Tech Food startup. We will change the seafood market!
+
+### 🎙️ Activities
+
+- Read and listen to music.
+- "Churrasco" and football.
+
+### 🏆 Honors
+
+- Honorable Mention - XXVI Congress of Scientific Initiation - "Path planning and 3D mapping with Kuka LBR iiwa manipulator".
+
+### 📫 Want to connect?
+
+- LinkedIn: https://www.linkedin.com/in/lfreitasleonardo
