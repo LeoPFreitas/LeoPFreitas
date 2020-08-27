@@ -16,11 +16,6 @@ I'm a Software engineer and System Analysis Student based on Brazil! My personal
 
 - Brazilian Tech Food startup. We will change the seafood market!
 
-### 🎙️ Activities
-
-- Read and listen to music.
-- "Churrasco" and football.
-
 ### 🏆 Honors
 
 - Honorable Mention - XXVI Congress of Scientific Initiation - "Path planning and 3D mapping with Kuka LBR iiwa manipulator".
