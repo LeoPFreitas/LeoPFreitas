@@ -1,24 +1,8 @@
 ## Hi there, my name is Leonardo Freitas
 
-I'm a Software engineer and System Analysis Student based on Brazil! My personal mission is to use technology in order to improve humans life.
+I am a seasoned Solutions Architect Consultant with deep expertise in enterprise architecture, guided by the TOGAF framework, as well as cloud computing (AWS, Azure, and GCP) and digital transformation strategies. My diverse industry experience includes banking, financial services, healthcare, consumer packaged goods, food and beverage, and consultancy sectors, where I have successfully led and executed transformative projects. My work spans large corporations and global products, ensuring scalable and resilient solutions.
 
-### 🚀 The Dream
-
-- Become a true leader, a great software engineer and help as many developers as possible during this process.
-
-### ✏️ I’m currently learning
-
-- Java + tooling.
-- Software architecture and design.
-- Algorithms and Data Structures.
-
-### ⚡ I’m currently working on
-
-- Brazilian Tech Food startup. We will change the seafood market!
-
-### 🏆 Honors
-
-- Honorable Mention - XXVI Congress of Scientific Initiation - "Path planning and 3D mapping with Kuka LBR iiwa manipulator".
+I collaborate closely with multidisciplinary engineering teams, business partners, and key stakeholders to design and implement innovative solutions that align technical capabilities with strategic business objectives. My focus is on driving impactful digital transformations that enable organizations to excel in a rapidly evolving global market.
 
 ### 📫 Want to connect?
 
